@@ -8,7 +8,7 @@ No installation required
 
 ## Usage
 
-Please use the webpage as a snapshot of my coding abilities
+Please use the webpage as a snapshot of my coding abilities: https://abigailjoy93.github.io/Week2-Portfolio/
 
 ## Contributing
 
